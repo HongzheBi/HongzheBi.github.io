@@ -23,14 +23,14 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/unimem_colm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div class="badge">COLM 2024</div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniMem: Towards a Unified View of Long-Context Large Language Models](https://arxiv.org/abs/2402.03009)
 
 Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li, Yongjian Li, Xin Cong, Yankai Lin, Yukun Yan, Xiaodong Shi, Sen Song, Zhiyuan Liu, Maosong Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=2-LOJF4AAAAJ&citation_for_view=2-LOJF4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u-x6o8ySG0sC'></span></strong>
 - A Unified framework that reformulates existing long-context methods from the view of Memory augmentation of LLMs. 
 </div>
 </div>
