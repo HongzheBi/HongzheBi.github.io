@@ -23,7 +23,7 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/unimem_colm.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/unimem_colm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniMem: Towards a Unified View of Long-Context Large Language Models](https://arxiv.org/abs/2402.03009)
@@ -36,7 +36,7 @@ Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/eeft_www.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/eeft_www.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Fine-Tuning: Eficient and Efective Fed-Tuning for Mobile/Web Users](https://yaoguopku.github.io/papers/Liu-WWW-23.pdf)
