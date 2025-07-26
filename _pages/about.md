@@ -23,6 +23,20 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 
 # 📝 Publications 
 
+## General Embodied Intelligence
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hrdt_aaai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[H-RDT: Human Manipulation Enhanced Robot Manipulation]()
+
+**Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Zhizhong Su, Hang Su, Jun Zhu
+
+[**Project**](https://github.com/HongzheBi/H_RDT) <strong><span class='show_paper_citations' data=''></span></strong>
+- H-RDT (Human to Robotics Diffusion Transformer) is a novel approach that leverages human manipulation data to enhance robot manipulation capabilities.
+</div>
+</div>
+
+## Other Directions
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/unimem_colm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,7 +57,7 @@ Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li
 
 Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen
 
-[**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u5HHmVD_uO8C'></span></strong>
 - This paper extend the local-user fine-tuning to multi-user fed-tuning with the help of Federated Learning (FL).
 </div>
 </div>
