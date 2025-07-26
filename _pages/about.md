@@ -57,7 +57,7 @@ Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li
 
 Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen
 
-[**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://dl.acm.org/doi/abs/10.1145/3543507.3583212) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u5HHmVD_uO8C'></span></strong>
 - This paper extend the local-user fine-tuning to multi-user fed-tuning with the help of Federated Learning (FL).
 </div>
 </div>
