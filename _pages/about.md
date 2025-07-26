@@ -35,6 +35,19 @@ Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/eeft_www.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Fine-Tuning: Eficient and Efective Fed-Tuning for Mobile/Web Users](https://yaoguopku.github.io/papers/Liu-WWW-23.pdf)
+
+Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun Chen
+
+[**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u-x6o8ySG0sC'></span></strong>
+- This paper extend the local-user fine-tuning to multi-user fed-tuning with the help of Federated Learning (FL).
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)
 
