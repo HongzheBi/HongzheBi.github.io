@@ -42,8 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)
 
 # 📖 Educations
-- *2024.09 - now*, Master, TSAIL, THU-CST
-- *2020.09 - 2024.06*, Undergraduate, School of AI, BUPT
+- *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
+- *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
 # 💻 Internships
