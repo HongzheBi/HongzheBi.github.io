@@ -47,6 +47,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
 # 💻 Internships
-- *2024.10 - now*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html).
-- *2024.04 - 2024.08*, [D-Robotics](https://d-robotics.cc/).
-- *2023.10 - 2024.01*, [ModelBest](https://modelbest.cn/).
+- *2024.10 - now*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html)
+- *2024.04 - 2024.08*, [D-Robotics](https://d-robotics.cc/)
+- *2023.10 - 2024.01*, [ModelBest](https://modelbest.cn/)
