@@ -29,7 +29,7 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 
 [H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation](https://arxiv.org/abs/2507.23523)
 
-**Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Zhizhong Su, Hang Su, Jun Zhu
+**Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Hengkai Tan, Zhizhong Su, Hang Su, Jun Zhu
 
 [**Project**](https://embodiedfoundation.github.io/hrdt) <strong><span class='show_paper_citations' data=''></span></strong>
 - H-RDT (Human to Robotics Diffusion Transformer) is a novel approach that leverages human manipulation data to enhance robot manipulation capabilities.
