@@ -27,7 +27,7 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hrdt_aaai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation]()
+[H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation](https://arxiv.org/abs/2507.23523)
 
 **Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Zhizhong Su, Hang Su, Jun Zhu
 
