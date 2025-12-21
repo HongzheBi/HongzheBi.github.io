@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Hongzhe Bi, a first-year Master student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University. I'm also co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) in [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html). I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor’s degree. \
+I’m Hongzhe Bi, a second-year Master student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University. I'm also co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) in [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html). I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor’s degree. \
 My Research Interests include **General Embodied Intelligence**, **Cross-Embodied Robot Foundation Model** and **Bimanual Dextrous Manipulation**.
 
 # Publications 
