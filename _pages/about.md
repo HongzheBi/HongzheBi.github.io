@@ -20,8 +20,7 @@ redirect_from:
 I’m Hongzhe Bi, a first-year Master student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University. I'm also co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) in [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html). I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor’s degree. \
 My Research Interests include **General Embodied Intelligence**, **Cross-Embodied Robot Foundation Model** and **Bimanual Dextrous Manipulation**.
 
-
-# �� Publications 
+# Publications 
 
 ## General Embodied Intelligence
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/motus.jpg' alt="sym" width="100%"></div></div>
@@ -76,15 +75,15 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 </div>
 </div>
 
-# �� Honors and Awards
+# Honors and Awards
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)@CVPR2025
 
-# �� Educations
+# Educations
 - *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
-# �� Internships
+# Internships
 - *2024.10 - now*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html)
 - *2024.04 - 2024.08*, [D-Robotics](https://d-robotics.cc/)
 - *2023.10 - 2024.01*, [ModelBest](https://modelbest.cn/)
