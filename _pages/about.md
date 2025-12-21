@@ -21,17 +21,31 @@ I’m Hongzhe Bi, a first-year Master student advised by [Professor Jun Zhu](htt
 My Research Interests include **General Embodied Intelligence**, **Cross-Embodied Robot Foundation Model** and **Bimanual Dextrous Manipulation**.
 
 
-# 📝 Publications 
+# �� Publications 
 
 ## General Embodied Intelligence
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hrdt_aaai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/motus.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation]()
+[Motus: A Unified Latent Action World Model](https://arxiv.org/abs/2512.13030)
 
-**Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Zhizhong Su, Hang Su, Jun Zhu
+**Hongzhe Bi**, Hengkai Tan, Shenghao Xie, Zeyuan Wang, Shuhe Huang, Haitian Liu,
+Ruowen Zhao, Yao Feng, Chendong Xiang, Yinze Rong, Hongyan Zhao, Hanyu Liu,
+Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 
-[**Project**](https://github.com/HongzheBi/H_RDT) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Project**](https://motus-robotics.github.io/motus) <strong><span class='show_paper_citations' data=''></span></strong>
+- Motus is a **unified latent action world model** that leverages existing pretrained models and rich, sharable motion information. Motus introduces a **Mixture-of-Transformers (MoT)** architecture to integrate three experts (understanding, action, and video generation) and adopts a **UniDiffuser-style scheduler** to enable flexible switching between different modeling modes (World Models, Vision-Language-Action Models, Inverse Dynamics Models, Video Generation Models, and Video-Action Joint Prediction Models). Motus further leverages **optical flow** to learn **latent actions** and adopts a **three-phase training pipeline** and **six-layer data pyramid**, thereby extracting pixel-level "delta action" and enabling large-scale action pretraining.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2026</div><img src='images/hrdt_aaai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation](https://arxiv.org/abs/2507.23523)
+
+**Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Hengkai Tan, Zhizhong Su, Hang Su, Jun Zhu
+
+[**Project**](https://embodiedfoundation.github.io/hrdt) <strong><span class='show_paper_citations' data=''></span></strong>
 - H-RDT (Human to Robotics Diffusion Transformer) is a novel approach that leverages human manipulation data to enhance robot manipulation capabilities.
 </div>
 </div>
@@ -62,15 +76,15 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# �� Honors and Awards
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)@CVPR2025
 
-# 📖 Educations
+# �� Educations
 - *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
-# 💻 Internships
+# �� Internships
 - *2024.10 - now*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html)
 - *2024.04 - 2024.08*, [D-Robotics](https://d-robotics.cc/)
 - *2023.10 - 2024.01*, [ModelBest](https://modelbest.cn/)
