@@ -91,7 +91,7 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)@CVPR2025
 
 # Teaching
-- 2026 Spring, TA in Statistical Machine Learning, instructed by Prof. Jun Zhu
+- 2026 Spring, TA in **Statistical Learning Theory and Applications**, instructed by [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 # Educations
 - *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
