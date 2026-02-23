@@ -49,7 +49,7 @@ Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"Arxiv</div><img src='images/holobrain0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/holobrain0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HoloBrain-0 Technical Report](https://arxiv.org/abs/2602.12062)
