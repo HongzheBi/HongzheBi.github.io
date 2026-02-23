@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Hongzhe Bi, a second-year Master student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University. I'm also co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) in [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html). I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor’s degree. \
+I'm Hongzhe Bi, a second-year Master student advised by Professor Jun Zhu in the TSAIL, Department of Computer Science and Technology, Tsinghua University, and co-advised by Zhizhong Su at Horizon Robotics. I'm also a researcher at Shengshu Technology focusing on world models and embodied AI. I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor's degree. \
 My Research Interests include **General Embodied Intelligence**, **Cross-Embodied Robot Foundation Model** and **Bimanual Dextrous Manipulation**.
 
 # Publications 
@@ -99,6 +99,6 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
 # Internships
-- *2024.10 - now*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html)
+- *2024.10 - 2026.03*, [Horizon Robotics Lab](https://horizonrobotics.github.io/robot_lab/main/index.html)
 - *2024.04 - 2024.08*, [D-Robotics](https://d-robotics.cc/)
 - *2023.10 - 2024.01*, [ModelBest](https://modelbest.cn/)
