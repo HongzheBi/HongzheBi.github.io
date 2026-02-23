@@ -50,6 +50,15 @@ Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 </div>
 </div>
 
+[HoloBrain-0 Technical Report](https://arxiv.org/abs/2602.12062)
+
+Xuewu Lin, Tianwei Lin, Yun Du, Hongyu Xie, Yiwei Jin, Jiawei Li, Shijie Wu, Qingze Wang, Mengdi Li, Mengao Zhao, Ziang Li, Chaodong Huang, **Hongzhe Bi**, Lichao Huang, Zhizhong Su
+
+[**Project**](https://horizonrobotics.github.io/robot_lab/holobrain/) <strong><span class='show_paper_citations' data=''></span></strong>
+- HoloBrain-0 is a comprehensive VLA framework that bridges foundation models with reliable real-world deployment. By explicitly incorporating embodiment priors (kinematics & camera parameters), we achieve SOTA manipulation performance on both simulation and real-world benchmarks. We open-source the full ecosystem, including the RoboOrchard infrastructure, to democratize scalable robot learning.
+</div>
+</div>
+
 ## Other Directions
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024</div><img src='images/unimem_colm.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,6 +87,9 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 
 # 🎖 Honors and Awards
 - *2025.06* First place in Real-world Track and Second place in Simulation Track of [RoboTwin Dual-Arm Collaboration Challenge](https://robotwin-benchmark.github.io/cvpr-2025-challenge/#challenge-details)@CVPR2025
+
+# 📖 Teaching
+- 2026 Spring, TA in Statistical Machine Learning, instructed by Prof. Jun Zhu
 
 # 📖 Educations
 - *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
