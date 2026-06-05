@@ -96,7 +96,7 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 - 2026 Spring, TA in **Statistical Learning Theory and Applications**, instructed by [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 # Educations
-- *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
+- *2024.09 - now*, Phd, TSAIL, Department of Computer Science and Technology, Tsinghua University
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
