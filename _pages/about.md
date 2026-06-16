@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Hongzhe Bi, a second-year Phd student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University, and co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) at [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html).I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor's degree. \
+I'm Hongzhe Bi, a second-year Matser student advised by [Professor Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) in the [TSAIL](https://ml.cs.tsinghua.edu.cn/people.html), Department of Computer Science and Technology, Tsinghua University, and co-advised by [Zhizhong Su](https://scholar.google.com/citations?user=HQfc8TEAAAAJ&hl=en) at [Horizon Robotics](https://horizonrobotics.github.io/robot_lab/main/index.html).I graduated from Class of Artificial Intelligence, Beijing University of Posts and Telecommunications with a bachelor's degree. \
 My Research Interests include **General Embodied Intelligence**, **Cross-Embodied Robot Foundation Model** and **Bimanual Dextrous Manipulation**.
 
 
@@ -96,7 +96,7 @@ Bingyan Liu, Yifeng Cai, **Hongzhe Bi**, Ziqi Zhang, Ding Li, Yao Guo, Xiangqun 
 - 2026 Spring, TA in **Statistical Learning Theory and Applications**, instructed by [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml)
 
 # Educations
-- *2024.09 - now*, Phd, TSAIL, Department of Computer Science and Technology, Tsinghua University
+- *2024.09 - now*, Master, TSAIL, Department of Computer Science and Technology, Tsinghua University
 - *2020.09 - 2024.06*, Undergraduate, School of Artificial Intelligence, Beijing University of Posts and Telecommunications(BUPT)
 - *2014.09 - 2020.06*, High School, Beijing 101 Middle School
 
