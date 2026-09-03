@@ -25,6 +25,20 @@ My Research Interests include **General Embodied Intelligence**, **Cross-Embodie
 # Publications 
 
 ## General Embodied Intelligence
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/motus2.png' alt="Motus2 overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Motus2: A Self-Evolving General World Model for Dexterous Manipulation](https://arxiv.org/abs/2608.30237)
+
+**Hongzhe Bi**, Zihao Zhou, Yihang Tang, Jingrui Pang, Shuhe Huang, Haitian Liu,
+Runqing Wang, Shuai Huang, Yichen Wang, Yiming Cheng, Ruowen Zhao, Zhenghua Li,
+Hengkai Tan, Xiaolong Liu, Jinhui Wan, Jiabao Liu, Min Zhao, Fan Bao, Jun Zhu
+
+[**Project**](https://motus-robotics.github.io/motus2)
+- Motus2 is a **self-evolving General World Model for dexterous manipulation**. A single shared-parameter model exposes a policy, a simulator, and an evaluator, closing the loop between action proposal, consequence prediction, outcome evaluation, and policy improvement. Motus2 further scales physical experience through an egocentric human-data pyramid and extends dexterous control with working memory and tactile sensing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/motus.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
