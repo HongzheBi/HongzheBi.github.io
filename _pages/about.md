@@ -35,7 +35,7 @@ Runqing Wang, Shuai Huang, Yichen Wang, Yiming Cheng, Ruowen Zhao, Zhenghua Li,
 Hengkai Tan, Xiaolong Liu, Jinhui Wan, Jiabao Liu, Min Zhao, Fan Bao, Jun Zhu
 
 [**Project**](https://motus-robotics.github.io/motus2)
-- Motus2 is a **self-evolving General World Model for dexterous manipulation** that advances world modeling through **model scaling** and **data scaling**. A single model with shared weights exposes a policy, a simulator, and an evaluator, whose coupling forms a closed decision-and-learning loop for policy improvement. Motus2 progresses from large-scale monocular egocentric data to synchronized stereo egocentric data and further incorporates working memory and tactile sensing for dexterous control.
+- Motus2 is a **self-evolving General World Model** for dexterous manipulation. A shared video-action backbone exposes a policy, an action-conditioned simulator, and a value evaluator. Candidate actions are simulated and scored for Best-of-N planning and **model-based policy optimization** with DiffusionNFT. Successful demonstrations supervise action learning, while failed and suboptimal interactions train dynamics and value estimation. A staged data curriculum progresses from monocular to stereo egocentric human data, followed by robot-domain adaptation. The framework also studies long-history context mechanisms and tactile action refinement, addressing partial observability and contact-sensitive control.
 </div>
 </div>
 
@@ -49,7 +49,7 @@ Ruowen Zhao, Yao Feng, Chendong Xiang, Yinze Rong, Hongyan Zhao, Hanyu Liu,
 Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 
 [**Project**](https://motus-robotics.github.io/motus) <strong><span class='show_paper_citations' data=''></span></strong>
-- Motus is a **unified latent action world model** that leverages existing pretrained models and rich, sharable motion information. Motus introduces a **Mixture-of-Transformers (MoT)** architecture to integrate three experts (understanding, action, and video generation) and adopts a **UniDiffuser-style scheduler** to enable flexible switching between different modeling modes (World Models, Vision-Language-Action Models, Inverse Dynamics Models, Video Generation Models, and Video-Action Joint Prediction Models). Motus further leverages **optical flow** to learn **latent actions** and adopts a **three-phase training pipeline** and **six-layer data pyramid**, thereby extracting pixel-level "delta action" and enabling large-scale action pretraining.
+- Motus is a **unified latent action world model** that connects pretrained vision-language and video-generation models with an action expert through a Mixture-of-Transformers architecture. A UniDiffuser-style scheduler supports five modes: policy prediction, world modeling, inverse dynamics, video generation, and joint video-action prediction. **Optical-flow latent actions** capture transferable motion information, enabling action pretraining on human videos and heterogeneous robot trajectories through a three-stage training pipeline and six-level data pyramid. Motus achieves 87.02% average success across 50 RoboTwin 2.0 tasks under scene randomization, compared with 72.84% for X-VLA, with additional evaluations on two real-world bimanual robot platforms.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 **Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Hengkai Tan, Zhizhong Su, Hang Su, Jun Zhu
 
 [**Project**](https://embodiedfoundation.github.io/hrdt) <strong><span class='show_paper_citations' data=''></span></strong>
-- H-RDT (Human to Robotics Diffusion Transformer) is a novel approach that leverages human manipulation data to enhance robot manipulation capabilities.
+- H-RDT transfers manipulation knowledge from large-scale **egocentric human demonstrations** to bimanual robots. It pretrains a 2B-parameter flow-matching transformer on EgoDex using 3D wrist poses and fingertip positions, then fine-tunes on robot demonstrations with **embodiment-specific state/action adapters** and action decoders while reusing pretrained perception and transformer weights. Evaluations on RoboTwin 2.0 and three real-world robot platforms show improved average performance over training without human pretraining, including few-shot manipulation with limited robot demonstrations. These results highlight human motion data as a scalable source of behavioral priors for cross-embodiment policy learning.
 </div>
 </div>
 
@@ -86,7 +86,7 @@ Xuewu Lin, Tianwei Lin, Yun Du, Hongyu Xie, Yiwei Jin, Jiawei Li, Shijie Wu, Qin
 Junjie Fang, Likai Tang, **Hongzhe Bi**, Yujia Qin, Si Sun, Zhenyu Li, Haolun Li, Yongjian Li, Xin Cong, Yankai Lin, Yukun Yan, Xiaodong Shi, Sen Song, Zhiyuan Liu, Maosong Sun
 
 [**Project**](https://github.com/thunlp/UniMem) <strong><span class='show_paper_citations' data='LOJF4AAAAJ:u-x6o8ySG0sC'></span></strong>
-- A Unified framework that reformulates existing long-context methods from the view of Memory augmentation of LLMs. 
+- UniMem unifies context caching, context compression, and sparse attention through **four dimensions of memory augmentation**: management, writing, reading, and injection. It reformulates 16 long-context methods within a common framework, enabling systematic comparison and analysis of their design choices. Building on this framework, **UniMix** combines similarity-based retrieval, position-based attention, and compressed memory tokens. Experiments with TinyLLaMA and LLaMA2-7B show that UniMix matches or improves on the evaluated baselines in text and code perplexity, while achieving the highest average LongBench score in the TinyLLaMA comparison. Ablations reveal that where memory is injected can matter more than how many layers are augmented.
 </div>
 </div>
 
