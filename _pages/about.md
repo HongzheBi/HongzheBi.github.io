@@ -61,7 +61,7 @@ Zhizhong Su, Lei Ma, Hang Su, Jun Zhu
 **Hongzhe Bi**, Lingxuan Wu, Tianwei Lin, Hengkai Tan, Zhizhong Su, Hang Su, Jun Zhu
 
 [**Project**](https://embodiedfoundation.github.io/hrdt) <strong><span class='show_paper_citations' data=''></span></strong>
-- H-RDT demonstrates that **large-scale human experience** can provide a foundation for robot manipulation. As an early study of learning from egocentric human data, it transfers human manipulation skills across robot embodiments with only a small amount of robot-specific training data. Strong simulation and real-world results, including **few-shot adaptation**, establish a scalable path toward robot foundation models trained on human experience.
+- H-RDT demonstrates that **large-scale human experience** can provide a foundation for robot manipulation. As an early study of learning from egocentric human data, it transfers human manipulation skills across robot embodiments with only a small amount of robot-specific training data. Strong simulation and real-world results, including **few-shot adaptation**, establish a scalable path toward robot foundation models trained on human experience. The work has also informed the development of embodied manipulation foundation models at Horizon Robotics.
 </div>
 </div>
 
